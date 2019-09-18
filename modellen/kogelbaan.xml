@@ -1,14 +1,16 @@
 ﻿<modelleertaal>
 N = 100
 <startwaarden>
-g = 9,81
 v = 12
 alpha = 45
+
 vy = v*sin(alpha)
 vx = v*sin(alpha)
+
 x = 0
-y = 2
 y = 0
+
+g = 9,81
 t = 0
 dt = 0,01
 </startwaarden>
