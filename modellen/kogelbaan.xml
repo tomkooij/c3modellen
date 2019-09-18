@@ -22,6 +22,6 @@ y = y + vy * dt
 x = x + vx * dt
 t = t + dt
 
-v = sqrt(vx^2 + v^2)
+v = sqrt(vx^2 + vy^2)
 </modelregels>
 </modelleertaal>
