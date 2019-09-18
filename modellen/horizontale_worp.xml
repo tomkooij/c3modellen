@@ -1,4 +1,5 @@
 ﻿<modelleertaal>
+N = 100
 <startwaarden>
 vx = 12
 h = 10
