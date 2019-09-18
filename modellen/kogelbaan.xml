@@ -5,7 +5,7 @@ v = 12
 alpha = 45
 
 vy = v*sin(alpha)
-vx = v*sin(alpha)
+vx = v*cos(alpha)
 
 x = 0
 y = 0
