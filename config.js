@@ -6,11 +6,11 @@ var config_js_loaded = true;
 
 
 var N_default = 1000;		// default waarde voor N (aantal iteraties)
-var base_url = 'https://www.tomkooij.nl/c2modellen';
+var base_url = 'https://www.tomkooij.nl/c3modellen';
 
 // titelbalk bovenaan
-var title = 'Numerieke modellen';
-var title_link = 'https://coornhert.sharepoint.com/sites/liber/Natuurkunde/C2Energieenarbeid/C2Energieenarbeid/SitePages/Introductiepagina.aspx';
+var title = 'Numerieke modellen bij C3 Gravitatie';
+var title_link = 'https://coornhert.sharepoint.com/sites/liber/Natuurkunde/C3Gravitatie/C3Gravitatie/SitePages/Introductiepagina.aspx';
 
 // definitie van het "profiel", welke knoppen staan aan enz.
 var full_webapp = [
