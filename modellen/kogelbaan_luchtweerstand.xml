@@ -1,4 +1,5 @@
 ﻿<modelleertaal>
+N = 1000
 <startwaarden>
 k = 0,1
 v = 12
