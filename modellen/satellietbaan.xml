@@ -17,8 +17,6 @@ t = 0
 dt = 10
 </startwaarden>
 <modelregels>
-'satellietbaan model
-
 r = sqrt(x^2 + y^2)
 Fg = G * M * m / r^2
 
