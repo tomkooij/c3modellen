@@ -16,20 +16,24 @@ t = 0
 dt = 10
 </startwaarden>
 <modelregels>
-'satellietbaan model
-
+'satellietbaanmodel
+  
 r = sqrt(x^2 + y^2)
-a = -G * M / r^2
+Fg = G * M * m / r^2
+
+Fr = -Fg      
+a = Fr/m  
 
 ay = a * y/r
 ax = a * x/r
 
 vx = vx + ax * dt
-x = x + vx * dt
-
 vy = vy + ay * dt
+
+x = x + vx * dt
 y = y + vy * dt
 
 t = t + dt
+
 </modelregels>
 </modelleertaal>
