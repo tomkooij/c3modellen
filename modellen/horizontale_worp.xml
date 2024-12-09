@@ -15,7 +15,7 @@ dt = 0,1
 </startwaarden>
 <modelregels>
 'horizontale worp
-Fr = Fz
+Fr = -Fz
 a = Fr/m
 
 vy = vy + a * dt
