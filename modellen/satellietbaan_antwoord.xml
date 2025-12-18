@@ -3,6 +3,7 @@ N = 1000
 <startwaarden>
 G = 6,674e-11
 M = 5,97e24
+m = 1
 R_a = 6,371e6
 
 h = 200e3
